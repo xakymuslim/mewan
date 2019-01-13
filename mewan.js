@@ -210,7 +210,7 @@ function WAU_cps(a) {
                 var b = document.createElement("script");
                 b.async = "async";
                 b.type = "text/javascript";
-                b.src = "//rawgit.com/xakymuslim/mewan/master/mewan1.js";
+                b.src = "//raw.githack.com/xakymuslim/mewan/master/mewan1.js";
                 c.parentNode.insertBefore(b, c)
             })()
         }
